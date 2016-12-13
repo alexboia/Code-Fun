@@ -6,21 +6,21 @@ using System.Threading.Tasks;
 
 namespace RosettaCode.RankingMethods
 {
-    public interface IHasRank
-    {
-        decimal Rank
-        {
-            get;
-        }
+   public interface IHasRank
+   {
+      decimal Rank
+      {
+         get;
+      }
 
-        int InitialScore
-        {
-            get;
-        }
+      int InitialScore
+      {
+         get;
+      }
 
-        Item Item
-        {
-            get;
-        }
-    }
+      Item Item
+      {
+         get;
+      }
+   }
 }
