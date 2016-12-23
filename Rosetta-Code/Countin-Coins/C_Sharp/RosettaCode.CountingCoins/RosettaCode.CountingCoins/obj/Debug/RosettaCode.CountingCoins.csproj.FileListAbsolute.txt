@@ -1,6 +1,0 @@
-E:\Projects\Code-Fun\Code-Fun\Rosetta-Code\Countin-Coins\C_Sharp\RosettaCode.CountingCoins\RosettaCode.CountingCoins\bin\Debug\RosettaCode.CountingCoins.exe.config
-E:\Projects\Code-Fun\Code-Fun\Rosetta-Code\Countin-Coins\C_Sharp\RosettaCode.CountingCoins\RosettaCode.CountingCoins\bin\Debug\RosettaCode.CountingCoins.exe
-E:\Projects\Code-Fun\Code-Fun\Rosetta-Code\Countin-Coins\C_Sharp\RosettaCode.CountingCoins\RosettaCode.CountingCoins\bin\Debug\RosettaCode.CountingCoins.pdb
-E:\Projects\Code-Fun\Code-Fun\Rosetta-Code\Countin-Coins\C_Sharp\RosettaCode.CountingCoins\RosettaCode.CountingCoins\obj\Debug\RosettaCode.CountingCoins.csprojResolveAssemblyReference.cache
-E:\Projects\Code-Fun\Code-Fun\Rosetta-Code\Countin-Coins\C_Sharp\RosettaCode.CountingCoins\RosettaCode.CountingCoins\obj\Debug\RosettaCode.CountingCoins.exe
-E:\Projects\Code-Fun\Code-Fun\Rosetta-Code\Countin-Coins\C_Sharp\RosettaCode.CountingCoins\RosettaCode.CountingCoins\obj\Debug\RosettaCode.CountingCoins.pdb
