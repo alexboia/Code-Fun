@@ -10,9 +10,9 @@ namespace RosettaCode.CountingCoins
    {
       public static void Main( string[] args )
       {
-         CoinCounter counter = new CoinCounter( 100, new List<int>() { 25, 10, 5, 1 } );
+         CoinCounter counter = new CoinCounter( 100000, new List<int>() {100, 50, 25, 10, 5, 1 } );
 
-         int totalCombinations = counter.CountCoins();
+         long totalCombinations = counter.CountCoins();
 
          Console.WriteLine( "Total combinations: {0}", totalCombinations );
          Console.ReadKey();
